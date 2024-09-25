@@ -95,7 +95,9 @@
 		0736C7AD2CA499060099EF15 /* Screens */ = {
 			isa = PBXGroup;
 			children = (
-				0736C7BF2CA499430099EF15 /* AppetizerTapView */,
+				0736C7AC2CA499060099EF15 /* AppetizerTapView.swift */,
+				0736C7A92CA499060099EF15 /* AppetizerCell */,
+				0736C7AB2CA499060099EF15 /* Model */,
 			);
 			path = Screens;
 			sourceTree = "<group>";
@@ -103,8 +105,8 @@
 		0736C7B12CA499060099EF15 /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				0736C7AE2CA499060099EF15 /* AccountView.swift */,
 				0736C7AF2CA499060099EF15 /* AppetizersListView.swift */,
+				0736C7AE2CA499060099EF15 /* AccountView.swift */,
 				0736C7B02CA499060099EF15 /* OrderView.swift */,
 			);
 			path = Views;
@@ -121,16 +123,6 @@
 				0736C7B32CA499060099EF15 /* README.md */,
 			);
 			path = Appetizers;
-			sourceTree = "<group>";
-		};
-		0736C7BF2CA499430099EF15 /* AppetizerTapView */ = {
-			isa = PBXGroup;
-			children = (
-				0736C7AC2CA499060099EF15 /* AppetizerTapView.swift */,
-				0736C7A92CA499060099EF15 /* AppetizerCell */,
-				0736C7AB2CA499060099EF15 /* Model */,
-			);
-			path = AppetizerTapView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
